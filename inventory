@@ -1,3 +1,8 @@
 [web_servers]
-ubuntu_server_playground@192.168.1.44
+centos_server_playground@192.168.1.45
+
+[db_servers]
 ubuntuserver_playground@192.168.1.42
+
+[file_servers]
+ubuntu_server_playground@192.168.1.44
