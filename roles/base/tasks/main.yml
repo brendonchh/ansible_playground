@@ -1,0 +1,4 @@
+ - name: add ssh keys for brendon
+   authorized_key:
+      user: brendon
+      key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII/b5W9pJgYbVr+UzuRpVNnafsp/qyA7MZW/BnlxvYwI ansible"
