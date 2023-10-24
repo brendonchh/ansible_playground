@@ -1,6 +1,6 @@
 - name: install apache and php packages
   tags: apache,httpd,php
-  apt:
+  package:
     name: 
       - "{{ apache_package_name }}"
       - "{{ php_package_name }}"
