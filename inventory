@@ -6,3 +6,6 @@ ubuntuserver_playground@192.168.1.42
 
 [file_servers]
 ubuntu_server_playground@192.168.1.44
+
+[workstations]
+ansible-server@192.168.1.41
