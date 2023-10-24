@@ -44,7 +44,7 @@
   service:
     name: httpd
     state: restarted
-    when: httpd.changed
+  when: httpd.changed
 
 
 - name: copy default html file for site
